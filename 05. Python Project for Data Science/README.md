@@ -1,28 +1,20 @@
-# Tools for Data Science?
+#  Python Project for Data Science
 
 ## 📄 Summary 
-In order to be successful in Data Science, you need to be skilled with using tools that Data Science professionals employ as part of their jobs. This course teaches you about the popular tools in Data Science and how to use them. 
+This mini-course is intended to for you to demonstrate foundational Python skills for working with data. This course primarily involves completing a project in which you will assume the role of a Data Scientist or a Data Analyst and be provided with a real-world data set and a real-world inspired scenario to identify patterns and trends. 
 
-You will become familiar with the Data Scientist’s tool kit which includes: Libraries & Packages, Data Sets, Machine Learning Models, Kernels, as well as the various Open source, commercial, Big Data and Cloud-based tools. 
-
-Work with Jupyter Notebooks, JupyterLab, RStudio IDE, Git, GitHub, and Watson Studio. You will understand what each tool is used for, what programming languages they can execute, their features and limitations.  
-
-This course gives plenty of hands-on experience in order to develop skills for working with these Data Science Tools. With the tools hosted in the cloud on Skills Network Labs, you will be able to test each tool and follow instructions to run simple code in Python, R, or Scala.  
-
-Towards the end the course, you will create a final project with a Jupyter Notebook. You will demonstrate your proficiency preparing a notebook, writing Markdown, and sharing your work with your peers.
+You will perform specific data science and data analytics tasks such as extracting data, web scraping, visualizing data and creating a dashboard. This project will showcase your proficiency with Python and using libraries such as Pandas and Beautiful Soup within a Jupyter Notebook. Upon completion you will have an impressive project to add to your job portfolio.   
 
 ## 📑 Main Topics 
-- Describe the Data Scientist’s tool kit which includes: Libraries & Packages, Data sets, Machine learning models, and Big Data tools.
-- Utilize languages commonly used by data scientists like Python, R, and SQL.
-- Demonstrate working knowledge of tools such as Jupyter notebooks and RStudio and utilize their various features. 
-- Create and manage source code for data science using Git repositories and GitHub. 
-
+- Play the role of a Data Scientist / Data Analyst working on a real project.
+- Demonstrate your Skills in Python - the language of choice for Data Science and Data Analysis. 
+- Apply Python fundamentals, Python data structures, and working with data in Python.
+- Build a dashboard using Python and libraries like Pandas, Beautiful Soup and Plotly using Jupyter notebook.
 ## 🔑 Key Skills Learned 
 - Data Science.
-- Github.
+- Pandas.
 - Python Programming.
 - Jupyter notebooks.
-- Rstudio.
 
 
 ## 🏆 Certificates 
