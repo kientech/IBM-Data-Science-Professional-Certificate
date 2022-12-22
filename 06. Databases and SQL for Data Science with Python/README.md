@@ -1,28 +1,34 @@
-# Tools for Data Science?
+# Databases and SQL for Data Science with Python
 
 ## 📄 Summary 
-In order to be successful in Data Science, you need to be skilled with using tools that Data Science professionals employ as part of their jobs. This course teaches you about the popular tools in Data Science and how to use them. 
+Working knowledge of SQL (or Structured Query Language) is a must for data professionals like Data Scientists, Data Analysts and Data Engineers. Much of the world's data resides in databases. SQL is a powerful language used for communicating with and extracting data from databases.  
 
-You will become familiar with the Data Scientist’s tool kit which includes: Libraries & Packages, Data Sets, Machine Learning Models, Kernels, as well as the various Open source, commercial, Big Data and Cloud-based tools. 
+In this course you will learn SQL inside out- from the very basics of Select statements to advanced concepts like JOINs.  
 
-Work with Jupyter Notebooks, JupyterLab, RStudio IDE, Git, GitHub, and Watson Studio. You will understand what each tool is used for, what programming languages they can execute, their features and limitations.  
+You will:  
+-write foundational SQL statements like: SELECT, INSERT, UPDATE, and DELETE 
+-filter result sets, use WHERE, COUNT, DISTINCT, and LIMIT clauses 
+-differentiate between DML & DDL  
+-CREATE, ALTER, DROP and load tables 
+-use string patterns and ranges; ORDER and GROUP result sets, and built-in database functions 
+-build sub-queries and query data from multiple tables  
+-access databases as a data scientist using Jupyter notebooks with SQL and Python 
+-work with advanced concepts like Stored Procedures, Views, ACID Transactions, Inner & Outer JOINs 
 
-This course gives plenty of hands-on experience in order to develop skills for working with these Data Science Tools. With the tools hosted in the cloud on Skills Network Labs, you will be able to test each tool and follow instructions to run simple code in Python, R, or Scala.  
-
-Towards the end the course, you will create a final project with a Jupyter Notebook. You will demonstrate your proficiency preparing a notebook, writing Markdown, and sharing your work with your peers.
+Through hands-on labs and projects, you will practice building SQL queries, work with real databases on the Cloud, and use real data science tools. In the final project you’ll analyze multiple real-world datasets to demonstrate your skills.
 
 ## 📑 Main Topics 
-- Describe the Data Scientist’s tool kit which includes: Libraries & Packages, Data sets, Machine learning models, and Big Data tools.
-- Utilize languages commonly used by data scientists like Python, R, and SQL.
-- Demonstrate working knowledge of tools such as Jupyter notebooks and RStudio and utilize their various features. 
-- Create and manage source code for data science using Git repositories and GitHub. 
+- Analyze data within a database using SQL and Python.
+- Create a relational database on Cloud and work with tables.
+- Write SQL statements including SELECT, INSERT, UPDATE, and DELETE.
+- Build more powerful queries with advanced SQL techniques like views, transactions, stored procedures and joins.  
 
 ## 🔑 Key Skills Learned 
-- Data Science.
-- Github.
+- Cloud Databases.
+- Relational Database Management System (RDBMS).
 - Python Programming.
 - Jupyter notebooks.
-- Rstudio.
+- Structured Query Language (SQL).
 
 
 ## 🏆 Certificates 
