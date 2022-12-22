@@ -1,28 +1,35 @@
-# Tools for Data Science?
+#  Data Analysis with Python
 
 ## 📄 Summary 
-In order to be successful in Data Science, you need to be skilled with using tools that Data Science professionals employ as part of their jobs. This course teaches you about the popular tools in Data Science and how to use them. 
+Analyzing data with Python is an essential skill for Data Scientists and Data Analysts. This course will take you from the basics of data analysis with Python to building and evaluating data models.  
 
-You will become familiar with the Data Scientist’s tool kit which includes: Libraries & Packages, Data Sets, Machine Learning Models, Kernels, as well as the various Open source, commercial, Big Data and Cloud-based tools. 
+Topics covered include:  
+- collecting and importing data 
+- cleaning, preparing & formatting data 
+- data frame manipulation 
+- summarizing data 
+- building machine learning regression models 
+- model refinement 
+- creating data pipelines 
 
-Work with Jupyter Notebooks, JupyterLab, RStudio IDE, Git, GitHub, and Watson Studio. You will understand what each tool is used for, what programming languages they can execute, their features and limitations.  
+You will learn how to import data from multiple sources, clean and wrangle data, perform exploratory data analysis (EDA), and create meaningful data visualizations. You will then predict future trends from data by developing linear, multiple, polynomial regression models & pipelines and learn how to evaluate them.  
 
-This course gives plenty of hands-on experience in order to develop skills for working with these Data Science Tools. With the tools hosted in the cloud on Skills Network Labs, you will be able to test each tool and follow instructions to run simple code in Python, R, or Scala.  
+In addition to video lectures you will learn and practice using hands-on labs and projects. You will work with several open source Python libraries, including Pandas and Numpy to load, manipulate, analyze, and visualize cool datasets. You will also work with scipy and scikit-learn, to build machine learning models and make predictions.  
 
-Towards the end the course, you will create a final project with a Jupyter Notebook. You will demonstrate your proficiency preparing a notebook, writing Markdown, and sharing your work with your peers.
+If you choose to take this course and earn the Coursera course certificate, you will also earn an IBM digital badge.
 
 ## 📑 Main Topics 
-- Describe the Data Scientist’s tool kit which includes: Libraries & Packages, Data sets, Machine learning models, and Big Data tools.
-- Utilize languages commonly used by data scientists like Python, R, and SQL.
-- Demonstrate working knowledge of tools such as Jupyter notebooks and RStudio and utilize their various features. 
-- Create and manage source code for data science using Git repositories and GitHub. 
+- Develop Python code for cleaning and preparing data for analysis - including handling missing values, formatting, normalizing, and binning data.
+- Perform exploratory data analysis and apply analytical techniques to real-word datasets using libraries such as Pandas, Numpy and Scipy.
+- Manipulate data using dataframes, summarize data, understand data distribution, perform correlation and create data pipelines.
+- Build and evaluate regression models using machine learning scikit-learn library and use them for prediction and decision making.
 
 ## 🔑 Key Skills Learned 
-- Data Science.
-- Github.
+- Predictive Modelling.
 - Python Programming.
-- Jupyter notebooks.
-- Rstudio.
+- Data Analysis.
+- Data Visualization (DataViz).
+- Model Selection.
 
 
 ## 🏆 Certificates 
