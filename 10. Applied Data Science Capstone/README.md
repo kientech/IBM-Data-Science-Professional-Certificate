@@ -1,28 +1,27 @@
-# Tools for Data Science?
+# Applied Data Science Capstone
 
 ## 📄 Summary 
-In order to be successful in Data Science, you need to be skilled with using tools that Data Science professionals employ as part of their jobs. This course teaches you about the popular tools in Data Science and how to use them. 
+This is the final course in the IBM Data Science Professional Certificate as well as the Applied Data Science with Python Specialization. This capstone project course will give you the chance to practice the work that data scientists do in real life when working with datasets.  
 
-You will become familiar with the Data Scientist’s tool kit which includes: Libraries & Packages, Data Sets, Machine Learning Models, Kernels, as well as the various Open source, commercial, Big Data and Cloud-based tools. 
+In this course you will assume the role of a Data Scientist working for a startup intending to compete with SpaceX, and in the process follow the Data Science methodology involving data collection, data wrangling, exploratory data analysis, data visualization, model development, model evaluation, and reporting your results to stakeholders.  
 
-Work with Jupyter Notebooks, JupyterLab, RStudio IDE, Git, GitHub, and Watson Studio. You will understand what each tool is used for, what programming languages they can execute, their features and limitations.  
+You will be tasked with predicting if the first stage of the SpaceX Falcon 9 rocket will land successfully. With the help of your Data Science findings and models, the competing startup you have been hired by can make more informed bids against SpaceX for a rocket launch.  
 
-This course gives plenty of hands-on experience in order to develop skills for working with these Data Science Tools. With the tools hosted in the cloud on Skills Network Labs, you will be able to test each tool and follow instructions to run simple code in Python, R, or Scala.  
-
-Towards the end the course, you will create a final project with a Jupyter Notebook. You will demonstrate your proficiency preparing a notebook, writing Markdown, and sharing your work with your peers.
+In this course, there will not be much new learning, instead you’ll focus on hands-on work to demonstrate and apply what you have learnt in previous courses.  By successfully completing this Capstone you will have added a project to your data science and machine learning portfolio to showcase to employers.
 
 ## 📑 Main Topics 
-- Describe the Data Scientist’s tool kit which includes: Libraries & Packages, Data sets, Machine learning models, and Big Data tools.
-- Utilize languages commonly used by data scientists like Python, R, and SQL.
-- Demonstrate working knowledge of tools such as Jupyter notebooks and RStudio and utilize their various features. 
-- Create and manage source code for data science using Git repositories and GitHub. 
+- Demonstrate proficiency in data science and machine learning techniques using a real-world data set and prepare a report for stakeholders.
+- Apply your skills to perform data collection, data wrangling, exploratory data analysis, data visualization model development, and model evaluation.
+- Write Python code to create machine learning models including support vector machines, decision tree classifiers, and k-nearest neighbors. 
+- Evaluate the results of machine learning models for predictive analysis, compare their strengths and weaknesses and identify the optimal model. 
 
 ## 🔑 Key Skills Learned 
-- Data Science.
+- Methodology.
 - Github.
 - Python Programming.
 - Jupyter notebooks.
-- Rstudio.
+- Data Science Methodology.
+- K-Means Clustering.
 
 
 ## 🏆 Certificates 
