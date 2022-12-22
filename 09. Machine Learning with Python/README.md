@@ -1,28 +1,29 @@
-# Tools for Data Science?
+# Machine Learning with Python
 
 ## 📄 Summary 
-In order to be successful in Data Science, you need to be skilled with using tools that Data Science professionals employ as part of their jobs. This course teaches you about the popular tools in Data Science and how to use them. 
+Get ready to dive into the world of Machine Learning (ML) by using Python! This course is for you whether you want to advance your Data Science career or get started in Machine Learning and Deep Learning.  
 
-You will become familiar with the Data Scientist’s tool kit which includes: Libraries & Packages, Data Sets, Machine Learning Models, Kernels, as well as the various Open source, commercial, Big Data and Cloud-based tools. 
+This course will begin with a gentle introduction to Machine Learning and what it is, with topics like supervised vs unsupervised learning, linear & non-linear regression, simple regression and more.  
 
-Work with Jupyter Notebooks, JupyterLab, RStudio IDE, Git, GitHub, and Watson Studio. You will understand what each tool is used for, what programming languages they can execute, their features and limitations.  
+You will then dive into classification techniques using different classification algorithms, namely K-Nearest Neighbors (KNN), decision trees, and Logistic Regression. You’ll also learn about the importance and different types of clustering such as k-means, hierarchical clustering, and DBSCAN. 
 
-This course gives plenty of hands-on experience in order to develop skills for working with these Data Science Tools. With the tools hosted in the cloud on Skills Network Labs, you will be able to test each tool and follow instructions to run simple code in Python, R, or Scala.  
+With all the many concepts you will learn, a big emphasis will be placed on hands-on learning. You will work with Python libraries like SciPy and scikit-learn and apply your knowledge through labs. In the final project you will demonstrate your skills by building, evaluating and comparing several Machine Learning models using different algorithms.  
 
-Towards the end the course, you will create a final project with a Jupyter Notebook. You will demonstrate your proficiency preparing a notebook, writing Markdown, and sharing your work with your peers.
+By the end of this course, you will have job ready skills to add to your resume and a certificate in machine learning to prove your competency.
 
 ## 📑 Main Topics 
-- Describe the Data Scientist’s tool kit which includes: Libraries & Packages, Data sets, Machine learning models, and Big Data tools.
-- Utilize languages commonly used by data scientists like Python, R, and SQL.
-- Demonstrate working knowledge of tools such as Jupyter notebooks and RStudio and utilize their various features. 
-- Create and manage source code for data science using Git repositories and GitHub. 
+- Describe the various types of Machine Learning algorithms and when to use them.
+- Compare and contrast linear classification methods including multiclass prediction, support vector machines, and logistic regression.
+- Write Python code that implements various classification techniques including K-Nearest neighbors (KNN), decision trees, and regression trees. 
+- Evaluate the results from simple linear, non-linear, and multiple regression on a data set using evaluation metrics. 
 
 ## 🔑 Key Skills Learned 
-- Data Science.
-- Github.
-- Python Programming.
+- SciPy and scikit-learn.
+- Machine Learning.
+- Regression.
 - Jupyter notebooks.
-- Rstudio.
+- Classification.
+- Hierarchical Clustering.
 
 
 ## 🏆 Certificates 
